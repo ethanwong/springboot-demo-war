@@ -1,4 +1,4 @@
-package com.fourfaith.demo.configuration;
+package com.imethan.demo.configuration;
 
 
 import org.springframework.boot.SpringApplication;
@@ -7,8 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @Description: 
  * @Author: Ethan Wong
  * @Date: 2020-10-31 13:57:27
- * @FilePath: \src\main\java\com\fourfaith\demo\configuration\WarDemoApplication.java
- * @LastEditTime: 2020-11-02 15:48:29
+ * @FilePath: \src\main\java\com\imethan\demo\configuration\WarDemoApplication.java
+ * @LastEditTime: 2020-11-02 17:33:46
  * @LastEditors: your name
  */
 @SpringBootApplication(scanBasePackages = {"com.fourfaith"})

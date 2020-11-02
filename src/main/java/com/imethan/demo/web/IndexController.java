@@ -1,4 +1,4 @@
-package com.fourfaith.demo.web;
+package com.imethan.demo.web;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -12,8 +12,8 @@ import org.springframework.web.bind.annotation.ResponseBody;
  * @Description: 
  * @Author: Ethan Wong
  * @Date: 2020-10-31 13:58:24
- * @FilePath: \src\main\java\com\fourfaith\demo\web\IndexController.java
- * @LastEditTime: 2020-11-02 13:55:55
+ * @FilePath: \src\main\java\com\imethan\demo\web\IndexController.java
+ * @LastEditTime: 2020-11-02 17:34:03
  * @LastEditors: your name
  */
 @Controller

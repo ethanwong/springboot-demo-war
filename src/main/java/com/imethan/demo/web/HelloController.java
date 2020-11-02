@@ -1,4 +1,4 @@
-package com.fourfaith.demo.web;
+package com.imethan.demo.web;
 
 import javax.websocket.server.PathParam;
 
@@ -11,8 +11,8 @@ import org.springframework.web.bind.annotation.RestController;
  * @Description:
  * @Author: Ethan Wong
  * @Date: 2020-10-31 14:31:10
- * @FilePath: \src\main\java\com\fourfaith\demo\web\HelloController.java
- * @LastEditTime: 2020-11-02 15:00:27
+ * @FilePath: \src\main\java\com\imethan\demo\web\HelloController.java
+ * @LastEditTime: 2020-11-02 17:33:54
  * @LastEditors: your name
  */
 @RestController()
