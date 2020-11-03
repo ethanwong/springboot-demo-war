@@ -11,7 +11,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @LastEditTime: 2020-11-02 17:33:46
  * @LastEditors: your name
  */
-@SpringBootApplication(scanBasePackages = {"com.fourfaith"})
+@SpringBootApplication(scanBasePackages = {"com.imethan"})
 public class WarDemoApplication {
 
 	public static void main(String[] args) {
