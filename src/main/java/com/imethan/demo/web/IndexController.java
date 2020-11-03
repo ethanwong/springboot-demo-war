@@ -34,12 +34,21 @@ public class IndexController{
         return map;
     }
 
+    /**
+     * @param model
+     * @return
+     */
     @GetMapping("/home")
     public String home(Model model){
 
         model.addAttribute("content", "welcome home !");
         System.out.println("home");
         return "home";
+    }
+
+    @GetMapping("")
+    public String welcome(){
+        return "redirect:home";
     }
 
 }
